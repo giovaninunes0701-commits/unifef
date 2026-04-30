@@ -1,0 +1,4 @@
+br/com/giovane/biblioteca/dao/LivroDAO.class
+br/com/giovane/biblioteca/controller/BibliotecaServlet.class
+br/com/giovane/biblioteca/model/Livro.class
+br/com/giovane/biblioteca/util/Conexao.class
